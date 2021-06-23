@@ -10,6 +10,13 @@
       "name": "UMA",
       "symbol": "UMA",
       "decimals": 18
+    },
+    {
+      "chainId": 128,
+      "address": "",
+      "name": "HECO",
+      "symbol": "HECO",
+      "decimals": 18
     }
   ],
   "version": { "major": 0, "minor": 0, "patch": 0 }
