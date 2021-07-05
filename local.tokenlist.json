@@ -23,27 +23,17 @@
       },
       {
         "chainId": 128,
-        "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
+        "address": "0x2a5e6fa145dcd7b53038e0b816968140ef26f59b",
         "name": "WUSD",
         "symbol": "WUSD",
-        "decimals": 8,
-        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_dai.svg"
-      },
-        {
-        "chainId": 1,
-        "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-        "name": "Dai Stablecoin",
-        "symbol": "DAI",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
       },
       {
-        "chainId": 1,
-        "address": "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359",
-        "name": "Sai Stablecoin v1.0",
-        "symbol": "SAI",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_SAI.svg"
+        "chainId": 128,
+        "address": "0x834bc9838071c5d50745cd03022c94b4309ee362",
+        "name": "WMF",
+        "symbol": "WMF",
+        "decimals": 8,
       }
     ],
     "version": {
