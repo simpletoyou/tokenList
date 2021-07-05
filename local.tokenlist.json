@@ -26,14 +26,14 @@
         "address": "0x2a5e6fa145dcd7b53038e0b816968140ef26f59b",
         "name": "WUSD",
         "symbol": "WUSD",
-        "decimals": 18,
+        "decimals": 18
       },
       {
         "chainId": 128,
         "address": "0x834bc9838071c5d50745cd03022c94b4309ee362",
         "name": "WMF",
         "symbol": "WMF",
-        "decimals": 8,
+        "decimals": 8
       }
     ],
     "version": {
