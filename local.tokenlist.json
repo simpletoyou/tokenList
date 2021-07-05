@@ -1,33 +1,33 @@
 {
-    "name": "Heco",
+    "name": "HECO TOKEN LIST",
     "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
     "keywords": [
-      "compound",
+      "heco",
       "defi"
     ],
     "timestamp": "2021-05-27T20:37:00.000+00:00",
     "tokens": [
       {
-        "chainId": 1,
+        "chainId": 128,
         "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
-        "name": "0x Protocol Token",
-        "symbol": "ZRX",
-        "decimals": 18,
+        "name": "FOD",
+        "symbol": "FOD",
+        "decimals": 8,
         "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
       },
       {
-        "chainId": 1,
+        "chainId": 128,
         "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
-        "name": "Compound USD Coin",
-        "symbol": "cUSDC",
+        "name": "CVV",
+        "symbol": "CVV",
         "decimals": 8,
         "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
       },
       {
-        "chainId": 1,
+        "chainId": 128,
         "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
-        "name": "Compound Dai",
-        "symbol": "cDAI",
+        "name": "WUSD",
+        "symbol": "WUSD",
         "decimals": 8,
         "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_dai.svg"
       },
