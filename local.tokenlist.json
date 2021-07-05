@@ -9,19 +9,17 @@
     "tokens": [
       {
         "chainId": 128,
-        "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+        "address": "0xb0c0a8bbc78bfd9cac6fb8cc330eaead2422dd5e",
         "name": "FOD",
         "symbol": "FOD",
-        "decimals": 8,
-        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+        "decimals": 8
       },
       {
         "chainId": 128,
-        "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
-        "name": "CVV",
-        "symbol": "CVV",
-        "decimals": 8,
-        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
+        "address": "0x9F9E4989253626543b7aa8D2aCd1825ae9bd2125",
+        "name": "CCV",
+        "symbol": "CCV",
+        "decimals": 8
       },
       {
         "chainId": 128,
