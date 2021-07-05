@@ -1,36 +1,33 @@
-// 20210705151126
-// https://raw.githubusercontent.com/compound-finance/token-list/master/compound.tokenlist.json
-
 {
   "name": "HECO",
   "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
   "keywords": [
-    "HECO",
+    "compound",
     "defi"
   ],
   "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
     {
-      "chainId": 128,
+      "chainId": 1,
       "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
-      "name": "WUSD",
-      "symbol": "WUSD",
-      "decimals": 8,
+      "name": "0x Protocol Token",
+      "symbol": "ZRX",
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
     },
     {
-      "chainId": 128,
+      "chainId": 1,
       "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
-      "name": "FOD",
-      "symbol": "FOD",
+      "name": "Compound USD Coin",
+      "symbol": "cUSDC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
     },
     {
-      "chainId": 128,
+      "chainId": 1,
       "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
-      "name": "CVV",
-      "symbol": "CVV",
+      "name": "Compound Dai",
+      "symbol": "cDAI",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_dai.svg"
     },
