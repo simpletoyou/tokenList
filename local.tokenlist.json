@@ -34,7 +34,14 @@
         "name": "WMF",
         "symbol": "WMF",
         "decimals": 8
-      }
+      },
+        {
+      "chainId": 128,
+      "address": "0x04960EF9C0e6aEE2625be8C456B1c673BB005Bdc",
+      "name": "DOGEPOR",
+      "symbol": "DOGEPOR",
+      "decimals": 9
+    }
     ],
     "version": {
       "major": 2,
